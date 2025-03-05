@@ -6,7 +6,7 @@ using SocialNetwork.BLL.Services;
 using SocialNetwork.DAL.Repositories;
 
 
-namespace SocialNetwork.Tests 
+namespace SocialNetwork.Tests
 {
     [TestFixture]
     public class UserServiceTests
